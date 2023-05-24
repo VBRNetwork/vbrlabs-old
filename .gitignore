@@ -1,0 +1,9 @@
+.venv
+venv
+.env
+env
+vscode
+.vscode
+*.pyc
+app.log.json
+frontend.log.json
